@@ -1,2 +1,19 @@
-README file for test repo
-Final update
+NAME
+   test  - repo testing
+
+VERSION
+   1.0
+
+SYNOPSIS
+   wget https://raw.github.com/team33/test/master/file1.sh
+   chmod +x file1.sh
+   ./test1.sh
+
+DESCRIPTION
+   Repo testing
+
+OPTIONS
+   none
+
+BUGS
+   None known

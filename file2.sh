@@ -1,4 +1,4 @@
 #!/bin/bash
-#file2.sh - for test repo
-#version 1.0 - initial release
+#file2.sh 1.0
+#file 2 for repo testing
 #update file2 for third push
